@@ -1,0 +1,5 @@
+# Ignore datasets
+/datasets/
+
+# Ignore temporary notebook files
+.ipynb_checkpoints/
